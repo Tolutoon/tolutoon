@@ -3,10 +3,16 @@
 
 <h1 align="center">Hi 👋, I’m Olopade Tolu </h1>
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🔭 I’m working on ALX projects and tasks.
+- 🌱 I’m currently interested in learning react for improvement on my coding skills.
+- 💞️ I’m looking to collaborate on all sort of problem solving projects.
+- 📫 You can reach me on email via getolopadetolu@gmail.com
+- ⚡ Fun fact I am a student of the ALX Software Engineering Programme
+
+## 🔗 Links
+[![linkedin]((https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/tolu-olopade)
+[![medium](https://img.shields.io/badge/medium-fff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@getolopadetolu)
+[![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tolutoon)
 
 <!---
 Tolutoon/Tolutoon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
