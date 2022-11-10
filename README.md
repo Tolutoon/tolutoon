@@ -1,7 +1,7 @@
 
  ![Header_image](https://www.samurai-digital.com/app/uploads/2021/02/UIActions_2@2x.png)
 
-<h1 align="center">Hi 👋, I’m Olopade Tolu </h>
+<h1 align="center">Hi 👋, I’m Olopade Tolu </h1>
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
