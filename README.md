@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Tolutoon
+
+ ![Header_image](https://www.samurai-digital.com/app/uploads/2021/02/UIActions_2@2x.png)
+
+<h1 align="center">Hi 👋, I’m Olopade Tolu </h>
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
