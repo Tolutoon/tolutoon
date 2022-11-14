@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I’m Olopade Tolu </h1>
 
 - 🔭 I’m working on ALX projects and tasks.
-- 🌱 I’m currently interested in learning react for improvement on my coding skills.
+- 🌱 I’m currently interested in learning React.
 - 💞️ I’m looking to collaborate on all sort of problem solving projects.
 - 📫 You can reach me on email via getolopadetolu@gmail.com
 - ⚡ Fun fact I am a student of the ALX Software Engineering Programme
