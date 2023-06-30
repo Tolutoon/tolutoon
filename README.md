@@ -19,6 +19,10 @@ Name | Badges
 **CI/CD & Hosting**   | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) <img src='https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white'/></p>
 
 
+## Stats
+![Tolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolutoon&show_icons=true&theme=radical)
+
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolu-olopade)
 [![instagram](https://img.shields.io/badge/instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tolutoon)
