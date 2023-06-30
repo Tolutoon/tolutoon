@@ -20,6 +20,8 @@ Name | Badges
 
 
 ## Stats
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolutoon&layout=compact&theme=dark&hide_border=false" /></p>
+
 ![Tolu's GitHub stats](https://github-readme-stats.vercel.app/api?username=tolutoon&show_icons=true&theme=radical)
 
 
