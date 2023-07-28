@@ -26,8 +26,6 @@ Name | Badges
 <br/>
 
 
- <b>Note:</b> The top languages shown here is just a measure of what I have posted here on GitHub and not my actual skill level, Thank you.
-
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tolu-olopade)
