@@ -20,7 +20,7 @@ Name | Badges
 
 
 ## Stats
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolutoon&layout=compact&theme=dark&hide_border=false" /></p>
+ <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolutoon&layout=compact&theme=dark&hide_border=false" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tolutoon&theme=dark" alt="Tolutoon" /></p>
 <br/>
