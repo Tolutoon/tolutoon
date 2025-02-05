@@ -1,5 +1,5 @@
 
- ![Header_image]([https://www.samurai-digital.com/app/uploads/2021/02/UIActions_2@2x.png](https://ibb.co/wZYxgqGh))
+ ![Header_image]([https://www.samurai-digital.com/app/uploads/2021/02/UIActions_2@2x.png](https://ibb.co/wZYxgqGh)
 
 <h1 align="center">Hi 👋, I’m Tolu </h1>
 
