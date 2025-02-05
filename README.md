@@ -1,5 +1,5 @@
 
- ![Header_image]([(https://ibb.co/wZYxgqGh)])
+ ![Header_image]((https://ibb.co/wZYxgqGh))
 
 <h1 align="center">Hi 👋, I’m Tolu </h1>
 
