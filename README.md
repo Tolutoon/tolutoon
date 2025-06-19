@@ -13,10 +13,10 @@ Name | Badges
 **Database & Authentication**   |  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge"/> </p>
 
 
-## Stats
+<!-- ## Stats
  <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolutoon&layout=compact&theme=dark&hide_border=false" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tolutoon&theme=dark" alt="Tolutoon" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tolutoon&theme=dark" alt="Tolutoon" /></p>
 <br/>
 
 
