@@ -4,13 +4,6 @@
 
 <h1 align="center">Hi 👋, I’m Tolu </h1>
 
-- 🔭 I’m working on projects and tasks.
-- 🌱 I’m currently interested in learning Swift.
-- 💞️ I’m looking to collaborate on all sort of problem solving projects.
-- 📫 You can reach me on email via getolopadetolu@gmail.com
-
-
-
 ## 🛠 Tools and Framework
 Name | Badges
 --- | --- 
