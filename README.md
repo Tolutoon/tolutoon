@@ -2,8 +2,6 @@
 <!-- ![Header_image](https://img.freepik.com/free-vector/teenager-drinks-coffee-bedroom-with-workspace-hacker-night_107791-5413.jpg?t=st=1738758547~exp=1738762147~hmac=e8c30748663f2e95a4d2138e5257cdfbd4ab19479c4d44d57dff2d3ad20ea93d&w=1800) --->
 
 
-<h1 align="center">Hi 👋, I’m Tolu </h1>
-
 ## 🛠 Tools and Framework
 Name | Badges
 --- | --- 
